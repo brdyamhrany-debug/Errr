@@ -7,4 +7,5 @@ cd Errr
 source ~/.bashrc
 
 fitrey
+کد ها رو یکی یکی در ترموکس بزنید
 
